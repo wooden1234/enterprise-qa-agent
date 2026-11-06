@@ -129,4 +129,7 @@ tests/                样例回放、换文、检索与记忆测试
 - 相近说法可能被向量检索直接命中；PTO 样例依赖原词不在语料且低于相似度阈值。
 - `scripted` 不能代替 `live_model` 证明动态决策。
 - 再次调用措辞可能变化；以当时输出的状态、引用和检索轨迹为准。
-- 尚未推到候选人自己的 GitHub 仓库，也没有最终 commit SHA。
+- 界面、权限与线上部署未做；详见 [docs/05-retrospective.md](docs/05-retrospective.md)。
+
+仓库：https://github.com/wooden1234/enterprise-qa-agent  
+提交 SHA：以 `git rev-parse HEAD` / GitHub 最新 commit 为准（当前推送基线 `2e4c2be237503199055da8680d97448ef17ed296`）。
