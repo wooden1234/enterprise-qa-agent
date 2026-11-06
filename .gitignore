@@ -1,0 +1,6 @@
+.env
+.venv/
+data/kb/vectors.json
+__pycache__/
+*.pyc
+.pytest_cache/

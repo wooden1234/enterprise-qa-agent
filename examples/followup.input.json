@@ -1,0 +1,7 @@
+{
+  "question": "那病假呢？",
+  "history": [
+    {"role": "user", "content": "年假有多少天？"},
+    {"role": "assistant", "content": "D03 写 5 个工作日，D04 写 10 个工作日，两版都没有优先级，需要确认适用哪一版。"}
+  ]
+}
